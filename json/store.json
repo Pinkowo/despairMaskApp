@@ -1,0 +1,30 @@
+[
+    {
+        "uri":"https://github.com/Pinkowo/midMask/blob/master/image/img_02.png?raw=true",
+        "adultAmount":"1000",
+        "childAmount":"1000",
+        "name":"躍獅連鎖藥局",
+        "cardTime":"下午2:30",
+        "maskTime":"下午3:00到5:00",
+        "remark":"排隊超久",
+        "alertTimeWeek":"星期一到星期五",
+        "alertTimeHour":"早上10:00到下午8:00",
+        "alertClose":"六日不營業",
+        "alertPhone":"02 2378 5767",
+        "alertAddress":"106台北市大安區和平東路三段10號"
+    },
+    {
+        "uri":"https://github.com/Pinkowo/midMask/blob/master/image/img_01.png?raw=true",
+        "adultAmount":"1000",
+        "childAmount":"1000",
+        "name":"仁華藥局",
+        "cardTime":"下午2:30",
+        "maskTime":"下午3:00到5:00",
+        "remark":"藥師超帥",
+        "alertTimeWeek":"星期一到星期五",
+        "alertTimeHour":"早上10:00到下午8:00",
+        "alertClose":"六日不營業",
+        "alertPhone":"02 2733 6762",
+        "alertAddress":"106台北市大安區臥龍街155號"
+    }  
+]
